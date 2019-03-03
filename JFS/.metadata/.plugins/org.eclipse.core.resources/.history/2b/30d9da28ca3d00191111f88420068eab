@@ -1,0 +1,16 @@
+package com.mitocode.dao;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class PeliculaDAOImpl implements IPeliculaDAO {
+
+	@Override
+	public void registrar() {
+		 System.out.println("REGISTRO EXITOSO");
+		
+	}
+	/*
+	 * public void registrar() { System.out.println("REGISTRO EXITOSO"); }
+	 */
+}

@@ -1,0 +1,10 @@
+package com.model;
+
+public class Pelicula {
+
+	private int idPelicula;
+	private String nombre;
+	private int duracion;
+	private String a;
+	private LocalDate fechaPublicacion;
+}

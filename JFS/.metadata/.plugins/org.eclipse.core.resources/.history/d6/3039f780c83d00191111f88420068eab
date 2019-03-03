@@ -1,0 +1,7 @@
+package com.mitocode.dao;
+
+public class PeliculaDAOImpl implements IPeliculaDAO {
+ public void registrar() {
+	 System.out.println("REGISTRO EXITOSO");
+ }
+}

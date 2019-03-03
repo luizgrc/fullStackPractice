@@ -1,0 +1,8 @@
+package com.mitocode.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface IPeliculaDAO extends JpaRepository<Pelicula, Integer>{
+	
+
+}

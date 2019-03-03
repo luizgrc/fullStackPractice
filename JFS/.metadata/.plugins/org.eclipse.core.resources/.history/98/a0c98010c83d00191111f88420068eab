@@ -1,0 +1,12 @@
+package com.mitocode.controller;
+
+import com.mitocode.service.IPeliculaService;
+
+public class PeliculaController {
+	private IPeliculaService service;
+
+	public String registrar() {
+		service.registrar();
+		return "exito";
+	}
+}

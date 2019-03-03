@@ -1,0 +1,5 @@
+package com.mitocode.service;
+
+public interface IPeliculaService {
+public void registrar();
+}

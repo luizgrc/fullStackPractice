@@ -1,0 +1,5 @@
+package com.mitocode.dao;
+
+public class PeliculaDAO {
+
+}

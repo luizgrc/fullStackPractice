@@ -1,0 +1,19 @@
+package com.mitocode.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.mitocode.service.IPeliculaService;
+
+public class PeliculaController {
+	
+	@Autowired
+	private IPeliculaService service;
+
+	@GetMapping
+	public String registrar() {
+		service.registrar();
+		return "exito";
+	}
+	
+}

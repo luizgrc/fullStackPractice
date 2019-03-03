@@ -1,0 +1,5 @@
+package com.mitocode.service;
+
+public class PeliculaServiceImpl {
+
+}
