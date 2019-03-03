@@ -8,5 +8,3 @@ spring.datasource.username=postgres
 spring.datasource.password=123
 
 spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
-spring.banner.location=lg.txt
-spring.banner.image.location=pikachu.jpg
