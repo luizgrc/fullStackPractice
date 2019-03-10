@@ -1,3 +1,6 @@
 martinfowler.com
 modelo richardson
 postman.com
+
+Mapeo Manual de JPA
+https://www.objectdb.com/

@@ -1,8 +1,0 @@
-package com.mitocode.dao;
-
-public interface IPeliculaDAO {
-	
-public void registrar() {
-	
-}
-}

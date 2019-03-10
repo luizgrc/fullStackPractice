@@ -1,5 +1,0 @@
-package com.mitocode.dao;
-
-public interface IPeliculaDAO {
-
-}
